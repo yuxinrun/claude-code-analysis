@@ -1,0 +1,6 @@
+# local research sources: PDFs and extracted book text, not part of the site
+/research/
+
+# OS noise
+.DS_Store
+Thumbs.db
